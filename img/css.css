@@ -21,6 +21,9 @@
 
 
 /* 页面大标题 */
+h1 {
+    margin-bottom: 20px;
+}
 
 .my_page_title {
     margin-left: 5px;
