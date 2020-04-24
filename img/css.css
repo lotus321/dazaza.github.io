@@ -42,7 +42,7 @@
 /* list_item  */
 
 .my_story_list_item {
-    margin-top: 20px;
+    /* margin-top: 20px; */
     margin-bottom: 20px;
 }
 .my_tag {
@@ -72,7 +72,7 @@
     margin-bottom: 30px;
 }
 .sotry_link {
-    margin-top: 0px;
+    margin-top: 20px;
 }
 .story_tags {
     margin-top: 30px;
