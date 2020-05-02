@@ -55,10 +55,19 @@ h1 {
 .item_title a {
     font-size: 20px;
 }
-.my_item_tag_container {
-    margin-top: 5px;
+.item_title_en a {
+    font-size: 16px;
+    color: gray;
 }
-
+.my_story_list_item_desc {
+    margin-top: 6px;
+}
+.my_item_tag_container {
+    margin-top: 15px;
+}
+.my_item_tag_container a{
+    font-size: 14px;
+}
 
 .my_object_year {
     font-size: 70%;
