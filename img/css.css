@@ -71,6 +71,9 @@ h1 {
 .my_item_tag_container a{
     font-size: 14px;
 }
+.my_story_img_thumb {
+    margin-left: 15px;
+}
 
 .my_object_year {
     font-size: 70%;
@@ -92,4 +95,10 @@ h1 {
 }
 .story_tags {
     margin-top: 30px;
+}
+.story_img_container {
+    text-align: center;
+}
+.story_img_container img {
+    margin-bottom: 15px;
 }
