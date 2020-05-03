@@ -11,9 +11,12 @@
 
 #my_header {
     width: auto;
+    box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.05);
 }
 
-#my_nav {}
+#my_nav {
+    
+}
 
 #my_content {
     margin-top: 30px;
