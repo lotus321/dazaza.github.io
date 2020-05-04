@@ -62,8 +62,13 @@ h1 {
     font-size: 16px;
     color: gray;
 }
+.item_title_en span {
+    font-size: 13px;
+    color: gray;
+    margin-left: 3px;
+}
 .my_story_list_item_desc {
-    margin-top: 6px;
+    margin-top: 9px;
 }
 .my_item_tag_container {
     margin-top: 15px;
@@ -72,7 +77,9 @@ h1 {
     font-size: 14px;
 }
 .my_story_img_thumb {
+    margin-top: 9px;
     margin-left: 15px;
+    text-align: center;
 }
 
 .my_object_year {
