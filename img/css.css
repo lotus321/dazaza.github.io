@@ -81,6 +81,10 @@ h1 {
     margin-left: 15px;
     text-align: center;
 }
+.my_story_list_date {
+    font-size: 11px;
+    color:gray;
+}
 
 .my_object_year {
     font-size: 70%;
