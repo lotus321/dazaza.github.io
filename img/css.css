@@ -113,3 +113,10 @@ h1 {
 .story_img_container img {
     margin-bottom: 15px;
 }
+.page_narrow {
+
+}
+.page_content {
+    font-size:16px;
+    line-height: 1.6;
+}
